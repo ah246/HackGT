@@ -15,6 +15,9 @@
     -webkit-box-orient: vertical;
 }
 
+body {
+    background-color: black;
+}
 /*
 .wrapper {
     position: relative;
