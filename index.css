@@ -15,9 +15,12 @@
     -webkit-box-orient: vertical;
 }
 
-body {
-    background-color: black;
+#gtlogo {
+    height: 100px;
+    width: 100px;
+    object-position: left top;
 }
+
 /*
 .wrapper {
     position: relative;

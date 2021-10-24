@@ -3,8 +3,10 @@ nav {
 	position: relative;
 	width: 80%;
 	height: 50px;
-	background-color: #34495e;
+	background-color: #d4752c;
 	border-radius: 8px;
+	border-width: 10px;
+	border-color: white;
 	font-size: 0;
 }
 nav a {
@@ -43,20 +45,20 @@ a:nth-child(4) {
 nav .start-home, a:nth-child(1):hover~.animation {
 	width: 25%;
 	left: 0;
-	background-color: #3498db;
+	background-color: #1c305c;
 }
 nav .start-about, a:nth-child(2):hover~.animation {
 	width: 25%;
 	left: 25%;
-	background-color: #3498db;
+	background-color: #1c305c;
 }
 nav .start-blog, a:nth-child(3):hover~.animation {
 	width: 25%;
 	left: 50%;
-	background-color: #3498db;
+	background-color: #1c305c;
 }
 nav .start-portefolio, a:nth-child(4):hover~.animation {
 	width: 25%;
 	left: 75%;
-	background-color: #3498db;
+	background-color: #1c305c;
 }
